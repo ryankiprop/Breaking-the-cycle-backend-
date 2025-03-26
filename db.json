@@ -1,9 +1,25 @@
 {
-  "posts": [
-    { "id": 1, "title": "json-server", "author": "typicode" }
+  "quotes": [
+      "Every day is a new opportunity to change your life.",
+      "Sobriety is a journey, not a destination.",
+      "You are stronger than you think.",
+      "One day at a time.",
+      "Progress, not perfection.",
+      "The secret of getting ahead is getting started.",
+      "You didn't come this far to only come this far.",
+      "Recovery is an acceptance that your life is in shambles and you have to change it.",
+      "Rock bottom became the solid foundation on which I rebuilt my life."
   ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 }
-  ],
-  "profile": { "name": "typicode" }
+  "milestones": [
+      {
+          "id": 1,
+          "text": "Completed first day sober",
+          "date": "2023-05-01"
+      },
+      {
+          "id": 2,
+          "text": "Attended first support meeting",
+          "date": "2023-05-03"
+      }
+  ]
 }
